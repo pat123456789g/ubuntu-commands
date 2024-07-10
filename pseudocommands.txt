@@ -1,0 +1,11 @@
+sudo apt update - updates the list of available packages
+sudo apt install - installs the selected package
+apt search apache - searches for a package
+ifconfig - Displays network interfaces and their statuses.
+sudo adduser newuser - adds a new user to the system
+df -h - checks available space in the system
+sudo apt upgrade - upgrades all installed packages in the system
+
+
+
+
